@@ -61,6 +61,6 @@ If you would like to contribute to this project feel free to send requests.  I o
 
 ### Questions
 
-If you have any questions about the application, be sure to contact me at my [e-mail].(mailto:smonagha@conncoll.edu)
+If you have any questions about the application, be sure to contact me at my [e-mail](mailto:smonagha@conncoll.edu).
 
 Alternatively you can find me and my other works at my [Github account](https://github.com/seanmonaghan).
