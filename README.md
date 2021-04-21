@@ -36,7 +36,7 @@ In order for the user to get all of the information in a particular column of th
 
 ![Code snippet on how to find all of a particular column in database](Assets/getall.png)
 
-If the user wants to get just a particular object from that array of objects, they can search by the primary key using the api call get request " http://localhost:3001/api/categories/{id} ".  The function in the application will use sequelize method .findByPk to find the particular object by its primary key established in the model
+If the user wants to get just a particular object from that array of objects, they can search by the primary key using the api call get request " http://localhost:3001/api/categories/{id} ".  The function in the application will use sequelize method .findByPk to find the particular object by its primary key established in the model.
 
 ![Code snippet on how to find one object of a particular column in database](Assets/getone.png)
 
@@ -61,6 +61,6 @@ If you would like to contribute to this project feel free to send requests.  I o
 
 ### Questions
 
-If you have any questions about the application, be sure to contact me at my [e-mail](mailto:smonagha@conncoll.edu)
+If you have any questions about the application, be sure to contact me at my [e-mail].(mailto:smonagha@conncoll.edu)
 
-Alternatively you can find me and my other works at my [Github account](https://github.com/seanmonaghan)
+Alternatively you can find me and my other works at my [Github account](https://github.com/seanmonaghan).
