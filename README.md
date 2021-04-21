@@ -27,7 +27,9 @@ If you would like to install this application, all you need to do is clone or fo
 This application functions only as a backend, where the database can be managed through a series of different API calls.  The user can view, update, add and delete elements from the database through making API calls to the appropriate route as is displayed in the following videos.
 
 [Click here to see a video on the technical components of the application!](https://drive.google.com/file/d/1A1uL5vFVlLFWARemnxgzOiW6PrcBZlKR/view)
+
 [Click here to see a video on how to set up the database and seed it!](https://drive.google.com/file/d/1_cwaBuzeOFWIXP1tzsD-tj8qP3ETeHya/view)
+
 [Click here to see a video on how to use the app using Insomnia Core!](https://drive.google.com/file/d/1ANge8UCk1OfOPrP5VXkrDwHx-4itW0V6/view)
 
 In order for the user to get all of the information in a particular column of the database, the get api call get request can be run on that particular column " http://localhost:3001/api/categories/ " for example, and the function utilizes sequelize to perform a .findAll() including the relevant information such as associated foreign keys.
